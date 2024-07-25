@@ -1,0 +1,57 @@
+1. Celular desperta 04h40 da manhã;
+2. Abro os olhos;
+3. Estendo a mão e desligo o despertador;
+4. Levanto;
+5. Caminho até o banheiro;
+6. Coloco a mão na maçaneta da porta do banheiro;
+7. Se estiver trancada:
+ 7.1 Pego a chave;
+ 7.2 Coloco na fechadura;
+ 7.3 Giro a chave até ouvir o clique de destrancado;
+ 7.4 Abro a porta;
+8. Se não estiver trancada:
+ 8.1 Abro a porta;
+9. Entro no banheiro;
+10. Vou até a frente do espelho;
+11. Pego a escova de dentes na pia;
+12. Pego o creme dental;
+13. Abro o creme dental;
+14. Coloco o creme dental na escova;
+15. Deixo o creme dental na pia;
+16. Levo a escova na boca;
+17. escovo os dentes;
+18. Após, abro o registro da pia;
+19. Coloco a escova embaixo da água;
+20. Limpo a escova;
+21. Coloco a escova na pia;
+22. Levo a mão em concha debaixo da água;
+23. Deixo encher de água;
+24. Levo até a boca;
+25. Abro a boca;
+26. Coloco a água dentro;
+27. Fecho a boca;
+28. Faço bochecho para limpar a boca;
+29. Abro a boca;
+30. Cuspo a água da boca;
+31. Fecho o registro;
+32. Coloco a escova na pia;
+33. Me olho no espelho para ver se estou com pasta no rosto;
+34. Abro o registro;
+35. Uso as mãos para pegar água;
+36. Encheu de água;
+37. Levo as mãos ao rosto;
+38. Jogo a água no rosto;
+39. Fecho o registro;
+40. Vou em direção ao box;
+41. Abro o box;
+42. Retiro as roupas;
+43. Coloco as roupas no cabideiro;
+44. Entro no box;
+45. Abro o registro;
+46. Espero a água esquentar;
+47. Se a água não esquentar:
+ 47.1 queimou o chuveiro;
+ 47.2 Tomo banho na água gelada;
+48. Se água esquentar:
+ 48.1 Tomo banho;
+49. E sequencia...
