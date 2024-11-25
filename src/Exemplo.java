@@ -4,8 +4,8 @@ public class Exemplo {
         int num = 1283013;
         System.out.println(num);
 
-        Long num2 = (long) num;
-        System.out.println(num2);
+        long l = num;
+        System.out.println(l);
 
     }
 }
